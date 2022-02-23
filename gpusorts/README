@@ -1,0 +1,8 @@
+Project 2: CUDA sorting championship
+Sumbission date: 12/10/2021
+Group:
+	Sam Schrader 800544026 saschra@siue.edu
+	Brandon Hudson 800474727 brhudso@siue.edu
+	Jan Niklas Harders 800733249 janhard@siue.edu
+
+The makefile compiles the three programs into the current directory. All three programs are named as prescribes. The excecutables take the arguements as designated by the skeleton file provided.
