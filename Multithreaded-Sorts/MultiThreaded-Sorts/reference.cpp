@@ -1,9 +1,9 @@
 /*
-Project 1:  Tour d’Algorithms: OpenMP Qualifier
+Project 1:  Tour dâ€™Algorithms: OpenMP Qualifier
 Part:       STL sort algorithm for reference
 Course:     CS-516 Computer Architecture
 Instructor: Dr. McKenny
-Group:      Brandon Hudson, Sam Schrader, Jan-Niklas Harders
+Name:      Brandon Hudson
 Semester:   Fall 2021
 */
 
