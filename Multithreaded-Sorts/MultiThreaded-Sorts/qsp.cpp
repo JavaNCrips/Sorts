@@ -1,9 +1,9 @@
 /*
-Project 1:  Tour d’Algorithms: OpenMP Qualifier
+Project 1:  Tour dâ€™Algorithms: OpenMP Qualifier
 Part:       Quick sort parallel (qsp)
 Course:     CS-516 Computer Architecture
 Instructor: Dr. McKenny
-Group:      Brandon Hudson, Sam Schrader, Jan-Niklas Harders
+Name:      Brandon Hudson
 Semester:   Fall 2021
 */
 
