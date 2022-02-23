@@ -3,7 +3,7 @@ Project 1:  Tour d’Algorithms: OpenMP Qualifier
 Part:       Bubble sort serial (bbs)
 Course:     CS-516 Computer Architecture
 Instructor: Dr. McKenny
-Name:      Brandon Hudson
+Name:       Brandon Hudson
 Semester:   Fall 2021
 */
 
